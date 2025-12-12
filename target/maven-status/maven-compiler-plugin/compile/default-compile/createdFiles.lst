@@ -1,0 +1,10 @@
+com/company/midas/MidasApplication.class
+com/company/midas/repository/OutboxRepository.class
+com/company/midas/config/KafkaConfig.class
+com/company/midas/config/WebClientConfig.class
+com/company/midas/kafka/TransactionListener.class
+com/company/midas/dto/TransactionMessage.class
+com/company/midas/model/Transaction.class
+com/company/midas/repository/TransactionRepository.class
+com/company/midas/model/OutboxEvent.class
+com/company/midas/service/TransactionService.class

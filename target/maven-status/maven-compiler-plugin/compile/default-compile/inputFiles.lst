@@ -1,0 +1,10 @@
+/home/arch/projects/midas-core/src/main/java/com/company/midas/MidasApplication.java
+/home/arch/projects/midas-core/src/main/java/com/company/midas/config/KafkaConfig.java
+/home/arch/projects/midas-core/src/main/java/com/company/midas/config/WebClientConfig.java
+/home/arch/projects/midas-core/src/main/java/com/company/midas/dto/TransactionMessage.java
+/home/arch/projects/midas-core/src/main/java/com/company/midas/kafka/TransactionListener.java
+/home/arch/projects/midas-core/src/main/java/com/company/midas/model/OutboxEvent.java
+/home/arch/projects/midas-core/src/main/java/com/company/midas/model/Transaction.java
+/home/arch/projects/midas-core/src/main/java/com/company/midas/repository/OutboxRepository.java
+/home/arch/projects/midas-core/src/main/java/com/company/midas/repository/TransactionRepository.java
+/home/arch/projects/midas-core/src/main/java/com/company/midas/service/TransactionService.java
